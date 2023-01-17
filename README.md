@@ -119,7 +119,7 @@ namespace MassTransitSample
 
 `localhost` is where the docker image is running. We are inferring the default port of `5672` and are using `\` as the [virtual](https://www.rabbitmq.com/vhosts.html) host (opens new window). `guest` and `guest` are the default username and password to talk to the cluster and management [dashboard](http://localhost:15672/#/) (opens new window).
 
-# </br>Rn the Project
+# </br>Run the Project
 
 ```
 $ dotnet run
